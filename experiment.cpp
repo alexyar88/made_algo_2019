@@ -1,9 +1,4 @@
-//
-// Created by Алексей Ярошенко on 18.12.2019.
-//
-
 #include "experiment.h"
-#include <iostream>
 
 
 float ExperimentResult::MeanMinPath() const {

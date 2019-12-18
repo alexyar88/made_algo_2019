@@ -1,7 +1,6 @@
 #include "min_path_find.h"
 
 
-
 float FindMinPath(std::vector<Point> points) {
     float min_path = 99999999;
     do {

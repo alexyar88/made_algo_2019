@@ -1,7 +1,3 @@
-//
-// Created by Алексей Ярошенко on 18.12.2019.
-//
-
 #ifndef INC_15_EXPERIMENT_H
 #define INC_15_EXPERIMENT_H
 

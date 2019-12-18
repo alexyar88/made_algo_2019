@@ -18,6 +18,7 @@ struct Edge {
 class Graph {
 public:
     explicit Graph(int size);
+
     explicit Graph(std::vector<Point> points);
 
     int Add(int v, int u, float weight);

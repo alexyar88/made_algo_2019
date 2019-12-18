@@ -1,7 +1,3 @@
-//
-// Created by Алексей Ярошенко on 17.12.2019.
-//
-
 #ifndef INC_15_DSU_H
 #define INC_15_DSU_H
 
@@ -22,4 +18,5 @@ private:
     std::vector<int> parent;
     std::vector<int> rank;
 };
+
 #endif //INC_15_DSU_H

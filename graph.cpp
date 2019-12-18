@@ -6,7 +6,7 @@
 Graph::Graph(int size) : vertexes(size) {}
 
 Graph::Graph(std::vector<Point> points) : vertexes(points.size()) {
-    for(int i = 0; i < points.size(); ++i) {
+    for (int i = 0; i < points.size(); ++i) {
         for (int j = 0; j < points.size(); ++j) {
             if (i == j) {
                 continue;

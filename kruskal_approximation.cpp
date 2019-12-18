@@ -1,7 +1,3 @@
-//
-// Created by Алексей Ярошенко on 18.12.2019.
-//
-
 #include "kruskal_approximation.h"
 #include "dsu.h"
 
